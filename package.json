@@ -1,0 +1,22 @@
+{
+  "name": "daw-m06-uf3-4-s01-ex1",
+  "version": "1.0.0",
+  "description": "Crea un componente de React llamado \"Saludo\" que muestre un mensaje de bienvenida en pantalla.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaSalleGracia-Templates/DAW-M06-UF3-4-S01-Ex1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaSalleGracia-Templates/DAW-M06-UF3-4-S01-Ex1/issues"
+  },
+  "homepage": "https://github.com/LaSalleGracia-Templates/DAW-M06-UF3-4-S01-Ex1#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
