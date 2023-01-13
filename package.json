@@ -16,7 +16,7 @@
     "url": "https://github.com/LaSalleGracia-Templates/DAW-M06-UF3-4-S01-Ex1/issues"
   },
   "homepage": "https://github.com/LaSalleGracia-Templates/DAW-M06-UF3-4-S01-Ex1#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^29.3.1"
   }
 }
